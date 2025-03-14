@@ -44,7 +44,7 @@
 
         Dim jenisKelamin As String = ""
         If rbL.Checked Then
-            jenisKelamin = "Laki-Laki"
+            jenisKelamin = "Laki-Lakii"
         ElseIf rbP.Checked Then
             jenisKelamin = "Perempuan"
         Else
